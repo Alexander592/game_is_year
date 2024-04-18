@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: e419b423e72359a47b10beb3353c9267
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - joystick: {instanceID: 0}
+  - healthDisplay: {instanceID: 0}
+  - weaponIcon: {instanceID: 0}
+  - key: {instanceID: 0}
+  - wallEffect: {instanceID: 0}
+  - shield: {instanceID: 0}
+  - shieldTimer: {instanceID: 0}
+  - panel: {fileID: 2883019222424391333, guid: 972abd1b2cca6a34ab374f24af14f417, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
